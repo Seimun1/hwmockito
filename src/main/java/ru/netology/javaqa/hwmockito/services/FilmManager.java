@@ -4,7 +4,7 @@ public class FilmManager {
     private int limit;
 
     public FilmManager() { // конструктор без параметров с лимитом 5
-        this.limit = 6;
+        this.limit = 5;
     }
 
     public FilmManager(int limit) { // конструктор с параметром,
